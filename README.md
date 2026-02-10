@@ -2,8 +2,7 @@
 
 ## Description
 This is a simple To-Do List application built with HTML, CSS (Tailwind), and JavaScript.
-It allows users to add, delete, and clear tasks. The app uses localStorage
-to save tasks so that they persist even after refreshing the page.
+It allows users to add, delete, and clear tasks.
 
 ## Features
 - Add new tasks with a text input
