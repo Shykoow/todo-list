@@ -10,7 +10,6 @@ to save tasks so that they persist even after refreshing the page.
 - Delete individual tasks
 - Clear all tasks
 - Responsive and clean UI using Tailwind CSS
-- Tasks are stored in `localStorage` for persistence
 - Hover effects and smooth transitions for buttons
 - Simple and easy-to-use interface
 
