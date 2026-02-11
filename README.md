@@ -11,8 +11,3 @@ It allows users to add, delete, and clear tasks.
 - Responsive and clean UI using Tailwind CSS
 - Hover effects and smooth transitions for buttons
 - Simple and easy-to-use interface
-
-## How to Use
-1. Clone the repository:
-```bash
-git clone https://github.com/shykoow/todo-list.git
